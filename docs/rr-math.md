@@ -1,4 +1,4 @@
-## How this works
+# How this works
 
 **Royale Rating** (RR) aims to give each player a score related to their skill. This allows us to rank players by that score.
 
