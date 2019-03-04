@@ -34,10 +34,10 @@ You must verify that you own the account in order to play. You will need:
 
 ### Register
 
-After you have verified your account ownership, you can register to a series to play. Current active series is `a1`
+After you have verified your account ownership, you can register to a series to play. Current active series is `a2`
 
 ```
-!!rr register a1
+!!rr register a2
 ```
 
 ### Play
